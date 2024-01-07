@@ -43,4 +43,5 @@ export const rules = [
   'Minimum of 8 characters',
   'At least on numeric character is requried',
   'A special character is required',
+  'An uppercase and lowercase character is required',
 ]
